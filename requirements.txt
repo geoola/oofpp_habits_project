@@ -1,0 +1,4 @@
+questionary
+matplotlib
+numpy
+pytest
