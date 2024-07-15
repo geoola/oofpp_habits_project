@@ -1,4 +1,0 @@
-questionary
-matplotlib
-numpy
-pytest
